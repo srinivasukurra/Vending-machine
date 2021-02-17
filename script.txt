@@ -1,0 +1,14 @@
+create database VendingMachine
+
+create table AmountDetails(AddedDate Datetime,Amount Float)
+
+create table OrderDetails(OrderDate Datetime,Item nvarchar(100),qty int,price float,total float,Transno int)
+
+create table Menu(item nvarchar(100),price float)
+
+insert into Menu values('cola',1.00)
+insert into Menu values('chips',0.50)
+insert into Menu values('candy',0.65)
+
+create table TransNos(TransNo int)
+INSERT INTO TransNos VALUES(0)

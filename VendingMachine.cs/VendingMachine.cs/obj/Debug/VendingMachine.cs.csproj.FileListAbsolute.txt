@@ -1,0 +1,20 @@
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\bin\Debug\VendingMachine.cs.exe.config
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\bin\Debug\VendingMachine.cs.exe
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\bin\Debug\VendingMachine.cs.pdb
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\obj\Debug\ResolveAssemblyReference.cache
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.Home.resources
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.Login.resources
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.Properties.Resources.resources
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.csproj.GenerateResource.Cache
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.exe
+G:\2. MY WORK\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.pdb
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\bin\Debug\VendingMachine.cs.exe.config
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\bin\Debug\VendingMachine.cs.exe
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\bin\Debug\VendingMachine.cs.pdb
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\obj\Debug\ResolveAssemblyReference.cache
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.Home.resources
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.Login.resources
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.Properties.Resources.resources
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.csproj.GenerateResource.Cache
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.exe
+I:\SKS\1.SOURCE FILES\02.FEBRUARY\17-02-2021\VendingMachine.cs\VendingMachine.cs\obj\Debug\VendingMachine.cs.pdb
